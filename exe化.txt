@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=icon2.ico 36Timetabler1.00.py
